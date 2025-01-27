@@ -1,8 +1,20 @@
-# React + Vite
+**Portfolio Website**
+This is my personal portfolio website showcasing my projects, skills, and experiences as a Computer Science student and aspiring software developer. The website is built using React.js, Tailwind CSS, and other modern web technologies.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Features**
+About Me Section: Learn more about my background and journey in Computer Science.
+Projects: A curated list of my top projects with descriptions, technologies used, and GitHub links.
+Skills: A breakdown of my technical skills categorized by experience levels.
+Resume: Easily view or download my resume in PDF format.
+Contact Form: Get in touch with me using a fully functional email form powered by EmailJS.
 
-Currently, two official plugins are available:
+**Technologies Used**
+Frontend: React.js, Tailwind CSS, Framer Motion (animations)
+Tools: Vite.js, Git, GitHub, EmailJS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Project Structure**
+src/assets: Contains all static assets (images, resume, etc.).
+src/components: Contains reusable components like Hero, Projects, Skills, and ContactForm.
+src/constants: Includes constants like navigation links, skills, projects, and more.
+src/index.css: Custom styling using Tailwind CSS.
+src/main.jsx: Entry point of the application.
