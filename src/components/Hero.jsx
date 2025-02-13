@@ -1,5 +1,5 @@
 import { HERO } from "../constants";
-import tahmidImg from "../assets/tahmid.jpg";
+import tahmidImg from "../assets/tahmid2.jpg";
 import resumePDF from "../assets/resume.pdf"; 
 import { motion } from "framer-motion";
 
